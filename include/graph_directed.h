@@ -1,4 +1,4 @@
-#include "./graph.h"
+#include "graph.h"
 
 #ifndef GRAPH_DIRECTED_H
 #define GRAPH_DIRECTED_H
